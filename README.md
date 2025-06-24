@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=Hello!%20I'm%20Laura👋&desc=Welcome%20to%20my%20Github%20profile&descAlignY=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=Hello!%20I'm%20Laura👋&desc=Welcome%20to%20my%20Github%20&descAlignY=70" alt="header" />
 </p>
 
 
