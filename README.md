@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @laurakhot
-- 👀 I’m interested in coding, weightlifting, and thrifting
-- 🌱 I’m currently learning web and app development
-<!---
-laurakhot/laurakhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there!%20I'm%20Laura%20👋&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile%20✨" alt="header" />
+</p>
+
+<p align="center">
+  <strong>👋 Hi, I’m <a href="https://github.com/laurakhot">@laurakhot</a></strong><br>
+  <em>💡 Coding enthusiast | 🏋️ Weightlifter | 🛍️ Thrifting aficionado</em><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E017&center=true&vCenter=true&multiline=true&width=435&lines=Web+and+App+Developer;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+---
+
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
