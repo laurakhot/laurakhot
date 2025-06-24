@@ -11,7 +11,10 @@
   <em>💡 Coding enthusiast | 🏋️ Weightlifter | 🛍️ Thrifting lover</em><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E017&center=true&vCenter=true&multiline=true&width=435&lines=Full-stack+web+and+app+developer!" alt="Typing SVG" />
 </p>
----
+
+---------
+---------
+
 
 
 **Frontend:**  
