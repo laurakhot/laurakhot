@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there!%20I'm%20Laura%20👋&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile%20✨" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there!%20I'm%20Laura%20👋&textBg=false" alt="header" />
 </p>
+
+
 
 <p align="center">
   <strong>👋 Hi, I’m <a href="https://github.com/laurakhot">@laurakhot</a></strong><br>
