@@ -1,5 +1,6 @@
+md
 
-# 𝓛𝓪𝓾𝓻𝓪 𝓚𝓱𝓸𝓽𝓮𝓶𝓵𝔂𝓪𝓷𝓼𝓴𝔂
+# Laura Khotemlyansky
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E017&center=true&vCenter=true&multiline=true&width=435&lines=Full-stack+web+and+app+developer!" alt="Typing SVG" />
