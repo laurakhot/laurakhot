@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=Hello!%20I'm%20Laura👋&desc=Welcome!&descAlignY=70" alt="header" />
-</p>
+Laura Khotemlyanky
 
 
 <p align="center">
