@@ -2,7 +2,7 @@
 <h1 align="center">Laura Khotemlyansky</h1>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=Full-stack+web+and+mobile+developer!)](https://git.io/typing-svg)]
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=Full-stack+web+and+mobile+developer!)](https://git.io/typing-svg)
 </p>
 
 
