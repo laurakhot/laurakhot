@@ -1,8 +1,3 @@
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=435&lines=Full-stack+web+and+mobile+developer!" alt="Typing SVG" />
-</p>
-
-
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
